@@ -6,4 +6,5 @@ dodato iz lokala
 dragan je promenio ovo iz lokala 
 ponovo dodato sa servera
 sbi.mode.svasta
+kn.qbe.nesto
 dragan je ovo promenio sa servera 
