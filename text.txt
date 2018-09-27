@@ -2,5 +2,6 @@
 dragan je promenio ovo nije
 marija je uradila ovde 
 dragan je dodao ovo
+dodato iz lokala 
 dragan je promenio ovo iz lokala 
 dragan je ovo promenio sa servera 
