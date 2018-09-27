@@ -4,6 +4,7 @@ marija je uradila ovde
 dragan je dodao ovo
 dodato iz lokala
 dodato iz servera 
+kn.qbe.nesto
 dragan je promenio ovo iz lokala 
 ponovo dodato sa servera
 dragan je ovo promenio sa servera 
