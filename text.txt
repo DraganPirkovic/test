@@ -5,4 +5,5 @@ dragan je dodao ovo
 dodato iz lokala 
 dragan je promenio ovo iz lokala 
 ponovo dodato sa servera
+sbi.mode.svasta
 dragan je ovo promenio sa servera 
