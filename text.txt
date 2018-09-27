@@ -1,1 +1,2 @@
 dragan je promenio ovo
+dragan je promenio ovo iz lokala 
