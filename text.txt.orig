@@ -1,7 +1,11 @@
 
 dragan je promenio ovo nije
-vesna je uradila ovde 
+marija je uradila ovde 
 dragan je dodao ovo
+<<<<<<< HEAD
 dodato iz lokala 
+=======
+dodato iz servera
+>>>>>>> 65562b09b913c2de6b2c4cd385a37b2bea614502
 dragan je promenio ovo iz lokala 
 dragan je ovo promenio sa servera 
