@@ -1,3 +1,3 @@
-dragan je promenio ovo
+dragan je promenio ovo mozda
 dragan je promenio ovo iz lokala 
 dragan je ovo promenio sa servera 
