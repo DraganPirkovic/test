@@ -1,5 +1,2 @@
 wefwefwef
-mika
-pera
-vesna server
-server
+
