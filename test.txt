@@ -1,7 +1,7 @@
 wefwefwef
 dragan dodao u branchu
 dodato u branch ponovo
-promeneno zbog konlikta iz lokala
+promeneno zbog konlikta 
 dodato u masteru ponovo
 aoweijfwepojapweoifj
 wiajepoijwepoijawepoifjw
