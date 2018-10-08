@@ -2,6 +2,7 @@ wefwefwef
 dragan dodao u branchu
 dodato u branch ponovo
 promeneno zbog konlikta 
+promeneno zbog konlikta sa sajta
 dodato 5555555555555
 dodato 2222222222
 dodato u masteru ponovo
