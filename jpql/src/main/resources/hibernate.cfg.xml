@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-configuration PUBLIC
+    "-//Hibernate/Hibernate Configuration DTD//EN"
+    "http://hibernate.sourceforge.net/hibernate-configuration-3.0.dtd">
+
+<hibernate-configuration>
+	<session-factory>
+	
+		<property name="hibernate.dialect" >org.hibernate.dialect.MySQLDialect</property>
+	
+<!-- 		<property name="hibernate.connection.driver_class">com.mysql.jdbc.Driver</property> -->
+<!-- 		<property name="hibernate.connection.url">jdbc:mysql://localhost:3306/foodmart</property> -->
+<!-- 		<property name="hibernate.connection.username">root</property> -->
+<!-- 		<property name="hibernate.connection.password">qqqq</property> -->
+<!-- 		<property name="show_sql">true</property> -->
+		
+		<property name="hibernate.dialect" >org.hibernate.dialect.MySQLDialect</property>
+	
+		<property name="hibernate.connection.driver_class">com.mysql.jdbc.Driver</property>
+		<property name="hibernate.connection.url">jdbc:mysql://localhost:3306/knowage_6.2</property>
+		<property name="hibernate.connection.username">root</property>
+		<property name="hibernate.connection.password">qqqq</property>
+		<property name="show_sql">true</property>
+		
+		
+		
+<!-- 		 <property name="hibernate.dialect">org.hibernate.dialect.Oracle9Dialect</property> -->
+<!-- 		<property name="hibernate.connection.driver_class">oracle.jdbc.OracleDriver</property> -->
+<!-- 		<property name="hibernate.connection.url">jdbc:oracle:thin:@161.27.213.106:1521/xe</property> -->
+<!-- 		<property name="hibernate.connection.username">foodmart</property> -->
+<!-- 		<property name="hibernate.connection.password">foodmart_key</property> -->
+<!-- 		<property name="show_sql">true</property> -->
+		
+		
+	
+		<property name="hibernate.current_session_context_class">org.hibernate.context.internal.ThreadLocalSessionContext</property>
+<!-- 		<mapping class="com.dragan.mappings.Product_class" /> -->
+<!-- 		<mapping class="com.dragan.mappings.Product" /> -->
+<!-- 		<mapping class="com.dragan.mappings.Promotion" /> -->
+<!-- 		<mapping class="com.dragan.mappings.Sales" /> -->
+<!-- 		<mapping class="com.dragan.mappings.SalesCompositePK" /> -->
+<!-- 		<mapping class="com.dragan.mappings.Store" /> -->
+<!-- 		<mapping class="com.dragan.mappings.Time" /> -->
+<!-- 		<mapping class="com.dragan.mappings.Customer" /> -->
+			<mapping class="com.dragan.mappings.SbiBinContents" />
+		
+	</session-factory>
+	
+</hibernate-configuration>

@@ -1,0 +1,15 @@
+com\dragan\App.class
+com\dragan\App2.class
+com\dragan\mappings\Product.class
+com\dragan\mappings\Promotion.class
+com\dragan\ExampleStatementVisitor.class
+com\dragan\ExampleWhereVisitor.class
+com\dragan\mappings\Time.class
+com\dragan\mappings\SalesCompositePK.class
+com\dragan\mappings\Store.class
+com\dragan\ExampleSelectVisitor.class
+com\dragan\mappings\Customer.class
+com\dragan\CustomInterceptor.class
+com\dragan\mappings\SbiBinContents.class
+com\dragan\mappings\Product_class.class
+com\dragan\mappings\Sales.class
